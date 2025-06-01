@@ -1,0 +1,55 @@
+# 💠 KarMaTic Token Web dApp
+
+This is the official decentralized web application for **KarMaTic (KMT)** on the **TON Blockchain**, designed to:
+
+- Display token details and live price
+- Allow wallet connection via **TON Connect**
+- Facilitate token usage across Telegram Web Apps
+- [In Progress] Swap KMT with TON through STON.fi integration
+
+---
+
+## 🔗 Live App
+
+You can access the live dApp here:  
+**[https://kmt-dev-panel.github.io/KMT-Token/kmt-wallet-connect.html](https://kmt-dev-panel.github.io/KMT-Token/kmt-wallet-connect.html)**
+
+---
+
+## ⚙️ Features
+
+- 🔹 Real-time KMT token metadata and logo display  
+- 🔹 Wallet connection via [Tonkeeper](https://tonkeeper.com/) and other TON-compatible wallets  
+- 🔹 Jetton Master Address:  
+  `EQBWSCOGJe17yWSh8zv7TiZiSf5lLY4ZI5FdmlvROcu4eDco`  
+- 🔹 Rate from STON.fi pool: `1 TON ≈ 776 KMT`  
+- 🔹 TVL: ~$11.26  
+- 🔹 IPFS Logo:  
+  `https://olive-cautious-gibbon-841.mypinata.cloud/ipfs/bafkreienac2lf6bnahv4vzvsmo53mbzzekbzdkygza5xuwubfivktsljo4`  
+- 🔹 Manifest for TON Connect:  
+  `https://kmt-dev-panel.github.io/KMT-Token/tonconnect-manifest.json`
+
+---
+
+## 📈 Usage Context
+
+KMT token powers our internal ecosystem:
+
+- 🔸 AI Personal Assistant Platform  
+- 🔸 Minecraft SMP Server: `smp.kmt.icu`  
+- 🔸 Telegram Web Apps with TON wallet integration  
+- 🔸 In-app virtual store (coming soon)
+
+KMT is **not intended for public trading or exchange listings**.
+
+---
+
+## 🚧 Upcoming Features
+
+- [ ] Token swap integration with [STON.fi](https://ston.fi)  
+- [ ] In-wallet subscription purchase via Telegram WebApp  
+- [ ] Real-time chart and on-chain explorer view
+
+---
+
+## 🗂 Repository Structure
