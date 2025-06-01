@@ -1,8 +1,7 @@
 {
-  "name": "KMT Token",
-  "url": "https://tonviewer.com/EQBWSCOGJe17yWSh8zv7TiZiSf5lLY4ZI5FdmlvROcu4eDco",
+  "url": "https://kmt-dev-panel.github.io/KMT-Token/",
+  "name": "KarMaTic Token",
   "iconUrl": "https://olive-cautious-gibbon-841.mypinata.cloud/ipfs/bafkreienac2lf6bnahv4vzvsmo53mbzzekbzdkygza5xuwubfivktsljo4",
-  "termsUrl": "https://tonviewer.com/EQBWSCOGJe17yWSh8zv7TiZiSf5lLY4ZI5FdmlvROcu4eDco",
-  "privacyPolicyUrl": "https://tonviewer.com/EQBWSCOGJe17yWSh8zv7TiZiSf5lLY4ZI5FdmlvROcu4eDco",
-  "manifestVersion": "0.0.1"
+  "termsOfUseUrl": "https://kmt-dev-panel.github.io/KMT-Token/terms",
+  "privacyPolicyUrl": "https://kmt-dev-panel.github.io/KMT-Token/privacy"
 }
