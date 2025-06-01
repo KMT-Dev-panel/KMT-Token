@@ -1,0 +1,59 @@
+Hello TON team,
+
+We kindly request verification and indexing of the KarMaTic (KMT) token in TON-related tools such as tonviewer, wallets, and APIs for accurate display of metadata and pricing.
+
+---
+
+🔹 **Token Information**
+
+- Name: KarMaTic (KMT)
+- Jetton Master Address:  
+  `EQBWSCOGJe17yWSh8zv7TiZiSf5lLY4ZI5FdmlvROcu4eDco`
+- Token Explorer:  
+  [tonviewer.com](https://tonviewer.com/EQBWSCOGJe17yWSh8zv7TiZiSf5lLY4ZI5FdmlvROcu4eDco)
+- Wallet: Tonkeeper  
+- Deployed via Ton Console
+
+---
+
+🔹 **Logo and Metadata**
+
+- Logo (IPFS):  
+  `https://olive-cautious-gibbon-841.mypinata.cloud/ipfs/bafkreienac2lf6bnahv4vzvsmo53mbzzekbzdkygza5xuwubfivktsljo4`
+- TON Connect Manifest:  
+  `https://kmt-dev-panel.github.io/KMT-Token/tonconnect-manifest.json`
+- Demo Wallet dApp (basic version):  
+  `https://kmt-dev-panel.github.io/KMT-Token/kmt-wallet-connect.html`
+- **Main official web app with wallet integration**:  
+  [`https://kmt-dev-panel.github.io/KMT-Token/index.html?utm_source=tonkeeper`](https://kmt-dev-panel.github.io/KMT-Token/index.html?utm_source=tonkeeper)
+
+---
+
+🔹 **Liquidity and Pricing**
+
+- Active liquidity pool on STON.fi  
+- Current rate: `1 TON ≈ 776 KMT`  
+- TVL: ~$11.26
+
+---
+
+🔹 **Purpose and Ecosystem**
+
+KMT is a utility token powering services within the KarMaTic ecosystem, including:
+
+- A private AI assistant platform
+- A public Minecraft SMP server (`smp.kmt.icu`)
+- A user credit and purchasing panel (under development)
+- **Official Telegram bot: `@KMTnum_Bot`**, already live for Iranian and international users
+
+In addition, we've developed a working **Telegram-friendly Web App** that supports wallet connection and token-based access:
+[`https://kmt-dev-panel.github.io/KMT-Token/index.html?utm_source=tonkeeper`](https://kmt-dev-panel.github.io/KMT-Token/index.html?utm_source=tonkeeper)
+
+Our long-term goal is to provide in-app, decentralized payments using KMT within Telegram Mini Apps and web platforms.
+
+The token is not listed on centralized exchanges and is not intended for speculation, but as a functional access layer for KarMaTic services.
+
+We respectfully request that this token's metadata and pricing be properly indexed in tonviewer, wallet integrations, and TonAPI-based tools.
+
+Sincerely,  
+KarMaTic Team
